@@ -1,0 +1,32 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\..\\Proyectos portafolio\\Free Code Camp\\Responsive Web Project"
+	},
+	{
+		"path": "..\\..\\..\\.."
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\app-web"
+	},
+	{
+		"path": "..\\..\\..\\..\\..\\counter-app"
+	},
+	{
+		"path": "..\\.."
+	},
+	{
+		"path": "..\\..\\..\\..\\bootstrap"
+	},
+	{
+		"path": "..\\..\\..\\..\\redux\\redux-starter"
+	},
+	{
+		"path": "..\\..\\..\\quiz-app"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Programacion",
+    "git.ignoreLimitWarning": true
+  }
+}
